@@ -1,2 +1,2 @@
 # Simon-game
-Exercise to practice the dom manipulation throught javascript
+Exercise to practice the DOM manipulation throught javascript
